@@ -1,5 +1,5 @@
 # AMT-2023-160
-Support code for reproducing the figures
+Support code for reproducing the figures of the article:
 
 *A versatile water vapor generation module for vapor isotope calibration and liquid isotope measurements*
 
@@ -7,9 +7,7 @@ by Hans Christian Steen-Larsen and Daniele Zannoni
 
 Accepted on Atmospheric Measurement Techniques on 25/05/2024 (Preprint available at https://doi.org/10.5194/amt-2023-160)
 
-To run the script the raw Picarro data is required which be retrieved here at http:....
-
-All the extra support files required to run the scripts are available in this repository.
+Note: To run the script the raw Picarro data and some extra support files are required. The extra support files are available in this reporisotory. The raw Picarro data can be retrieved here at http:....
 
 # Figure 3
 Flash evaporator 92 h stability test of the BER standard.
