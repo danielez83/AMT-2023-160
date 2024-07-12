@@ -14,7 +14,7 @@ Accepted in Atmospheric Measurement Techniques on 25/05/2024 (Preprint available
 
 Figure numbers refer to the final (peer-reviewed and accepted) version of the manuscript.
 
-Note: Support data is required to run the scripts. The latter can be retrieved on Zenodo at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12730778.svg)](https://doi.org/10.5281/zenodo.12730778)
+Note: Support data is required to run the scripts. The latter can be retrieved from Zenodo at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12730778.svg)](https://doi.org/10.5281/zenodo.12730778)
 
 ---
 # Suggested directory structure
