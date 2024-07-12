@@ -4,13 +4,15 @@
 ---
 
 
-Support code for reproducing the figures of the article:
+Support code to reproduce Figure 3 - Figure 10 from the article:
 
 *A versatile water vapor generation module for vapor isotope calibration and liquid isotope measurements*
 
 by Hans Christian Steen-Larsen and Daniele Zannoni
 
-Accepted on Atmospheric Measurement Techniques on 25/05/2024 (Preprint available at https://doi.org/10.5194/amt-2023-160)
+Accepted in Atmospheric Measurement Techniques on 25/05/2024 (Preprint available at https://doi.org/10.5194/amt-2023-160)
+
+Figure numbers refer to the final (peer-reviewed and accepted) version of the manuscript.
 
 Note: To run the script the raw Picarro data and some extra support files are required. The extra support files are available in this reporisotory. The raw Picarro data can be retrieved here at http:....
 
