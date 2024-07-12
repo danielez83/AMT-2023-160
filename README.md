@@ -14,13 +14,57 @@ Accepted in Atmospheric Measurement Techniques on 25/05/2024 (Preprint available
 
 Figure numbers refer to the final (peer-reviewed and accepted) version of the manuscript.
 
-Note: To run the script support data are required. The latter can be retrieved at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12730778.svg)](https://doi.org/10.5281/zenodo.12730778)
+Note: Support data is required to run the scripts. The latter can be retrieved on Zenodo at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12730778.svg)](https://doi.org/10.5281/zenodo.12730778)
 
+---
 # Suggested directory structure
-To run the code seamleassy, data and python scripts should be organized in the following way:
+---
+Python scripts and the data should be organized in the following way to run the code seamlessly:
 
+```
+.
+└── Main/
+    ├── AMT-2023-160/
+    │   ├── article_2.mplstyle
+    │   ├── article.mplstyle
+    │   ├── defines.py
+    │   ├── import_picarro_raw_data.py
+    │   ├── load_and_plot_long_step_WITH_INJ.py
+    │   ├── load_and_plot_PICARROs_comparison_data.py
+    │   ├── plot_ADEV_w_wo_memory.py
+    │   ├── plot_cal_pulses.py
+    │   ├── run_allandev_diff_hum_levels.py
+    │   ├── run_WIFVOS_test.py
+    │   ├── ADEV_BER17k_withmemory_CALIBRATED_R1.csv *
+    │   ├── Cal_Pulses_MultiOven_new20230609.csv *
+    │   ├── Cal_Pulses_Selector.csv *
+    │   ├── HKDS2156_IsoWater_20221116_165037.csv *
+    │   ├── SP_BER_inj_time.csv *
+    │   └── Timings_Picarro.xlsx *
+    └── DATA/
+        ├── HKDS2092/ *
+        │   └── 2022/
+        │       └── .../
+        └── HKDS2156/ *
+            └── 2022/
+                └── .../
+```
 
+Starred items indicate files and directories that can be downloaded at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12730778.svg)](https://doi.org/10.5281/zenodo.12730778).
 
+---
+# Python packages reguired
+---
+The following packages are required:
+- numpy
+- pandas
+- matplotlib
+- scipy
+- allantools
+
+---
+# Description of Figures
+---
 
 # Figure 3
 Flash evaporator 92 h stability test of the BER standard.
