@@ -14,7 +14,10 @@ Accepted in Atmospheric Measurement Techniques on 25/05/2024 (Preprint available
 
 Figure numbers refer to the final (peer-reviewed and accepted) version of the manuscript.
 
-Note: To run the script the raw Picarro data and some extra support files are required. The extra support files are available in this reporisotory. The raw Picarro data can be retrieved here at http:....
+Note: To run the script support data are required. The latter can be retrieved at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12730778.svg)](https://doi.org/10.5281/zenodo.12730778)
+
+# Suggested directory structure
+To run the code seamleassy, data and python scripts should be organized in the following way:
 
 
 
