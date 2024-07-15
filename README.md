@@ -3,6 +3,7 @@
 ![image](https://github.com/danielez83/AMT-2023-160/assets/7271070/5e46e5fa-aaa9-4121-a7ac-66c601523bda)
 ---
 
+[![DOI](https://zenodo.org/badge/827385592.svg)](https://zenodo.org/doi/10.5281/zenodo.12741980)
 
 Support code to reproduce Figure 3 - Figure 10 from the article:
 
